@@ -1,4 +1,4 @@
-# 🗓️ MatriCal
+# 🗓️ MetriCal
 
 [![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -87,26 +87,6 @@ El calendario republicano se organiza en:
 | 11 | Thermidor | Mes del calor |
 | 12 | Fructidor | Mes de los frutos |
 
-## 🤝 Contribuir
-
-Las contribuciones son bienvenidas. Por favor, siente libre de:
-
-1. Hacer fork del proyecto
-2. Crear una rama para tu característica (`git checkout -b feature/AmazingFeature`)
-3. Hacer commit de tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Hacer Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abrir un Pull Request
-
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## ✨ Agradecimientos
-
-- A la comunidad de Python por sus herramientas y bibliotecas
-- A los historiadores que mantienen viva la historia del Calendario Republicano
-- A los contribuidores del proyecto `ics-py`
-
-## 📧 Compartir
-
-Link del proyecto: [https://github.com/PunKoding/MetriCal/](https://github.com/PunKoding/MetriCal/)
