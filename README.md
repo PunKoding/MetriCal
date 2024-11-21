@@ -34,6 +34,9 @@ git clone https://github.com/PunKoding/MetriCal.py
 
 # Instalar dependencias
 pip install ics
+
+# Ejecutar script
+python3 MetriCal.py
 ```
 
 ## 📋 Requisitos
