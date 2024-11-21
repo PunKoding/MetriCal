@@ -107,8 +107,6 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 - A los historiadores que mantienen viva la historia del Calendario Republicano
 - A los contribuidores del proyecto `ics-py`
 
-## 📧 Contacto
+## 📧 Compartir
 
-Tu Nombre - [@tutwitter](https://twitter.com/tutwitter) - email@ejemplo.com
-
-Link del proyecto: [https://github.com/usuario/calendario-metrico-frances](https://github.com/usuario/calendario-metrico-frances)
+Link del proyecto: [https://github.com/PunKoding/MetriCal/](https://github.com/PunKoding/MetriCal/)
