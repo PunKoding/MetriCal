@@ -30,7 +30,7 @@ El Calendario Republicano Francés fue creado durante la Revolución Francesa co
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/PunKoding/MetriCal.py
+wget https://raw.githubusercontent.com/PunKoding/MetriCal/refs/heads/main/MetriCal.py
 
 # Instalar dependencias
 pip install ics
