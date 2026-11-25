@@ -19,6 +19,6 @@ Implementación en Python del **Calendario Republicano Francés** (también cono
 Clona el repositorio y ejecuta el script:
 
 ```bash
-git clone [https://github.com/PunKoding/MetriCal.git](https://github.com/PunKoding/MetriCal.git)
+git clone https://github.com/PunKoding/MetriCal.git
 cd MetriCal
 python3 MetriCal.py
